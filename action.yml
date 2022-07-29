@@ -70,7 +70,7 @@ inputs:
     default: false
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/marfatech/ssh-action:v0.1.9'
+  image: 'docker://ghcr.io/marfatech/ssh-action:v0.2.0'
 
 branding:
   icon: 'terminal'
